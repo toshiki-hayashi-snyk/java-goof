@@ -1,3 +1,4 @@
+# test2
 FROM maven:3-jdk-8-slim as build
 COPY pom.xml pom.xml
 COPY src src
